@@ -16,7 +16,6 @@ show_staff: false
 menu:
   footer:
     weight: 4
-    title: ''
 published: false
 
 ---
