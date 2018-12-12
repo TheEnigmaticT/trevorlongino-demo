@@ -15,7 +15,7 @@ partners: []
 show_staff: false
 menu:
   footer:
-    weight: 4
+    weight: 1
 published: false
 
 ---
